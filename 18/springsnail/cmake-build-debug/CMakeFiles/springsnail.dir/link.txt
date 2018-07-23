@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/springsnail.dir/conn.cpp.o CMakeFiles/springsnail.dir/fdwrapper.cpp.o CMakeFiles/springsnail.dir/log.cpp.o CMakeFiles/springsnail.dir/main.cpp.o CMakeFiles/springsnail.dir/mgr.cpp.o  -o springsnail 

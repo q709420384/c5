@@ -1,0 +1,3 @@
+/home/sanyie/code/18/springsnail/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sanyie/code/18/springsnail/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sanyie/code/18/springsnail/cmake-build-debug/CMakeFiles/springsnail.dir
