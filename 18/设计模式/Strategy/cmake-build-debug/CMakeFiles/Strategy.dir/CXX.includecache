@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanyie/code/18/设计模式/Strategy/context.cpp
+context.h
+/home/sanyie/code/18/设计模式/Strategy/context.h
+strategy.h
+/home/sanyie/code/18/设计模式/Strategy/strategy.h
+iostream
+-
+
+/home/sanyie/code/18/设计模式/Strategy/context.h
+
+/home/sanyie/code/18/设计模式/Strategy/main.cpp
+context.h
+/home/sanyie/code/18/设计模式/Strategy/context.h
+strategy.h
+/home/sanyie/code/18/设计模式/Strategy/strategy.h
+iostream
+-
+
+/home/sanyie/code/18/设计模式/Strategy/strategy.cpp
+strategy.h
+/home/sanyie/code/18/设计模式/Strategy/strategy.h
+iostream
+-
+
+/home/sanyie/code/18/设计模式/Strategy/strategy.h
+

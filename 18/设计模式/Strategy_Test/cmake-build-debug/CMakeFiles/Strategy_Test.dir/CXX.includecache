@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanyie/code/18/设计模式/Strategy_Test/Character.h
+Weapon.h
+/home/sanyie/code/18/设计模式/Strategy_Test/Weapon.h
+
+/home/sanyie/code/18/设计模式/Strategy_Test/Weapon.h
+iostream
+-
+
+/home/sanyie/code/18/设计模式/Strategy_Test/main.cpp
+iostream
+-
+Character.h
+/home/sanyie/code/18/设计模式/Strategy_Test/Character.h
+Weapon.h
+/home/sanyie/code/18/设计模式/Strategy_Test/Weapon.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Strategy.dir/main.cpp.o CMakeFiles/Strategy.dir/strategy.cpp.o CMakeFiles/Strategy.dir/context.cpp.o  -o Strategy 

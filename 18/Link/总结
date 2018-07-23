@@ -1,0 +1,9 @@
+带头结点与不带头结点有两个区别：
+  1.初始化
+    带： *head = NULL;
+    不带： *head = (Node*)malloc(sizeof(Node)); (*head)->next = NULL;  (注意传入的为**head,操作指针得用比它更高一级的指针)
+  2.插入
+    带： r = *head; r->next = NewNode; 
+         r->next = NULL; //到达终止条件
+    不带： 1.*head = NewNode; p = NewNode; 
+           2.p->next = NewNode; p = NewNode;
